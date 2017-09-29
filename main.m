@@ -10,7 +10,7 @@
 %--------------------------------------------------------------------------------
 
 significance_level = 0.01;
-init_alpha = 1.0
+init_alpha = 1.5
 path = pwd;
 files = dir( fullfile( path, 'data' ,'*.txt') );
 
